@@ -1,0 +1,10 @@
+﻿Andrew Butko
+abutko
+
+Project Proposal
+
+	For my project, I intend to design a chess game. It will allow local two-player games, and, if I find that I have enough time at the end, networked two-player games. Within the game itself, it will include all possible moves when selecting a piece and have features such as castling and en passant. The primary challenge here is going to be an additional mode – player vs. computer. I intend to design an AI for the game that can, at the very least, beat a casual player of the game. The basic interface will be done in Tkinter, although I plan on using Python Imaging Library to import images of pieces. If I get to the networking, I will use PodSixNet to have connectivity for two people at a time to play. When they plan, the player who gets black and white will be randomly selected (this isn't necessary in local play because the players can decide amongst themselves). To implement the AI, I plan on using techniques/algorithms such as Minimax and alpha-beta pruning as the basis for what I write. 
+
+	for proof of the modules:
+		PIL - I have images imported in my game that show I can use it (and this is likely the extent to which I will utlize the module).
+		PodSixNet - I only plan on using this if I find a reasonable amount of time after I've finished fully implementing the AI computer player.

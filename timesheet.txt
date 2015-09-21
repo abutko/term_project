@@ -1,0 +1,29 @@
+Andrew Butko
+abutko
+Section A
+
+Timesheet
+
+4/13 - entire day thinking of new idea (scrapped physics education game for chess game)
+4/14 - Many hours getting PIL to install/work; ~3 hours coding the basic board
+4/15 - competitive analysis, storyboard, proposal - ~ 2 hours
+4/16 - competitive analysis - ~30-45 minutes
+4/21 - added movement restrictions, turns, and minor interface updates - ~2-3 hours
+4/22 - spent time "cleaning up" code/adding references - ~30-45 minutes
+     - added "check" system - ~ 1 hour
+     - added checkmate system (full local game working, minus castling and en passant) ~ 2 hours
+     - started planning out AI system
+4/23 - added castling and cleaned up code a little bit - ~ 1-1.5 hours
+     - added interface features, pawn promotion - ~ 1 hour
+     - debugging check/checkmate system - ~ 1 hour
+4/27 - Debugging, added draw into game - 1 hour
+     - started adding AI system (with a lot of bugs) - ~ 6-7 hours
+4/28 - continuing to try to add AI (still unsuccessful) - 3+ hours
+     - added undo to 2p game, continued to clean up code - ~30 minutes
+     - added in save/load feature using pickle (included editing class configurations and 	some other functions); extended undo to go to all moves in the game - ~1.5-2 hours
+     - debugging load feature to work with all data needed for game ~ 45 minutes
+4/29 - continued on trying to implement ai; finally debugged problems with move and ai -  5-7 hours
+4/30 - finally got the ai to start making moves (bugs with check/checkmate and undoing moves) - 1-2 hours
+- fixed undo move bugs with ai - 3-4 hours
+- guy - 2-3 hours
+

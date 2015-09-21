@@ -1,0 +1,11 @@
+User study
+
+- include animations for pieces moving (slide from oldPos to movePos)
+
+- board flipping (keep two lists?)
+
+- animations with timer fired / animation function
+
+From this, I found the animations with moving the pieces was easy to implement. The board flipping, while nice, is not a necessary feature and complicates the current design involved in selecting board positions, so this idea was eliminated. 
+
+Since the user study, I have made a nicer user interface which seeks to make the experience easier and more pleasant.
