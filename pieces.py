@@ -1,4 +1,4 @@
-# Andrew Butko, abutko, Section A
+# Alexandra Butko, abutko, Section A
 # 15-112 Spring 2013 Term Project - due 5/1/13 at 9 PM
 
 # chess piece classes for term project
